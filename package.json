@@ -1,0 +1,38 @@
+{
+  "name": "kaas-init-config",
+  "version": "1.0.0",
+  "description": "kaas init boilerplate config",
+  "files": [
+    "index.js"
+  ],
+  "config": {
+    "boilerplate": {
+      "ssr": {
+        "package": "github:duiyuan/kaas-templates#ssr",
+        "description": "init a ssr project with nextjs"
+      },
+      "spa": {
+        "package": "github:duiyuan/kaas-templates#spa",
+        "description": "init a spa project with react"
+      },
+      "vsc-extension": {
+        "package": "github:duiyuan/kaas-templates#vsc-extension",
+        "description": "init a vscode extension project with ts"
+      },
+      "chrome-extension": {
+        "package": "github:duiyuan/kaas-templates#chrome-extension",
+        "description": "init a chrome extension project with ts"
+      }
+    }
+  },
+  "homepage": "https://github.com/duiyuan/kaas-init-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duiyuan/kaas-init-config.git"
+  },
+  "keywords": [
+    "kaas-cli",
+    "kaas"
+  ],
+  "author": "duiyuan"
+}
