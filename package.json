@@ -1,6 +1,6 @@
 {
   "name": "kaas-init-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "kaas init boilerplate config",
   "files": [
     "index.js"
@@ -8,19 +8,19 @@
   "config": {
     "boilerplate": {
       "ssr": {
-        "package": "github:duiyuan/kaas-templates#ssr",
+        "package": "https://gitee.com/cairick/kaas-templates.git#ssr",
         "description": "init a ssr project with nextjs"
       },
       "spa": {
-        "package": "github:duiyuan/kaas-templates#spa",
+        "package": "https://gitee.com/cairick/kaas-templates.git#spa",
         "description": "init a spa project with react"
       },
       "vsc-extension": {
-        "package": "github:duiyuan/kaas-templates#vsc-extension",
+        "package": "https://gitee.com/cairick/kaas-templates.git#vsc-extension",
         "description": "init a vscode extension project with ts"
       },
       "chrome-extension": {
-        "package": "github:duiyuan/kaas-templates#chrome-extension",
+        "package": "https://gitee.com/cairick/kaas-templates.git#chrome-extension",
         "description": "init a chrome extension project with ts"
       }
     },
