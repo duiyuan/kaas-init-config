@@ -1,6 +1,6 @@
 {
   "name": "kaas-init-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "kaas init boilerplate config",
   "files": [
     "index.js"
@@ -23,6 +23,9 @@
         "package": "github:duiyuan/kaas-templates#chrome-extension",
         "description": "init a chrome extension project with ts"
       }
+    },
+    "placeholder": {
+      "name": "KAASPROJECTNAME"
     }
   },
   "homepage": "https://github.com/duiyuan/kaas-init-config",
