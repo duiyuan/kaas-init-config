@@ -8,23 +8,23 @@
   "config": {
     "boilerplate": {
       "ssr": {
-        "package": "direct:https://gitee.com/cairick/kaas-templates.git#ssr",
+        "package": "https://gitee.com/cairick/kaas-templates.git#ssr",
         "description": "init a ssr project with nextjs"
       },
       "spa": {
-        "package": "direct:https://gitee.com/cairick/kaas-templates.git#spa",
+        "package": "https://gitee.com/cairick/kaas-templates.git#spa",
         "description": "init a spa project with react"
       },
       "egg": {
-        "package": "direct:https://gitee.com/cairick/kaas-templates.git#egg",
+        "package": "https://gitee.com/cairick/kaas-templates.git#egg",
         "description": "init a nodejs project with eggjs"
       },
       "vsc-extension": {
-        "package": "direct:https://gitee.com/cairick/kaas-templates.git#vsc-extension",
+        "package": "https://gitee.com/cairick/kaas-templates.git#vsc-extension",
         "description": "init a vscode extension project with ts"
       },
       "chrome-extension": {
-        "package": "direct:https://gitee.com/cairick/kaas-templates.git#chrome-extension",
+        "package": "https://gitee.com/cairick/kaas-templates.git#chrome-extension",
         "description": "init a chrome extension project with ts"
       }
     },
